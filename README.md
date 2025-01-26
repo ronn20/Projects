@@ -1,0 +1,1 @@
+This lab details a spectroscopic survey of the binary system Beta Aurigae, in which we take several time dependant data sets at specific wavelengths such as H_alpha,beta, and gamma in order to track radial velocities based on a predicted theoretical radial velocity curve.
